@@ -148,4 +148,4 @@ This places alternating limit orders across 6 grid levels.
 ---
 
 ## License
-MIT (for the sample code in this assignment).
+MIT.
